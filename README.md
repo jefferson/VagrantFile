@@ -2,9 +2,9 @@
 My vagrant file
 
 # Vagrant Plugins
-vagrant-share (1.1.9, system)
-vagrant-vbguest (0.15.0)
-vagrant-winnfsd (1.3.1)
+- vagrant-share (1.1.9, system)
+- vagrant-vbguest (0.15.0)
+- vagrant-winnfsd (1.3.1)
 
 # Provision
 - Ruby with RVM (version 2.4.2)
